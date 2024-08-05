@@ -1,9 +1,36 @@
-## Hi Folks!
+## 👋 Hi Folks!
 ### Welcome to my GitHub Profile.
 
 ![](https://komarev.com/ghpvc/?username=dheerajkallakuri&color=blue)
 
-## 💻Tech Stack
+## 💡 Projects Classification:
+
+### Embedded Machine Learning Projects
+1. **[Object Classification with CNNs](https://github.com/dheerajkallakuri/Object-Classification-with-CNNs)**
+2. **[Posture Prediction with NNs](https://github.com/dheerajkallakuri/Posture-Prediction-with-Neural-Networks)**
+3. **[Posture Classification with NNs](https://github.com/dheerajkallakuri/Posture-Classification-with-Neural-Networks)**
+4. **[Lying Posture Tracking System](https://github.com/dheerajkallakuri/Lying-Posture-Tracking-System)**
+5. **[Simple State Machine](https://github.com/dheerajkallakuri/Simple-StateMachine)**
+
+### Central Railway Projects
+1. **[Real-time Alert System for Auxiliary Transformer Failures](https://github.com/dheerajkallakuri/Real-time-Alert-System-for-Auxiliary-Transformer-Failures)**
+2. **[Implementation of Implantation Stagger Measuring Unit](https://github.com/dheerajkallakuri/Implantation-Stagger-Measuring-Unit)**
+3. **[Dynamic Height Measurement](https://github.com/dheerajkallakuri/Dynamic-Height-Measurement)**
+
+### Robotic Arm Projects
+1. **[Programming Universal Robots: Industrial Cobots](https://github.com/dheerajkallakuri/Programming-Industrial-Cobots)**
+2. **[CLIPort with Safety Constraints](https://github.com/dheerajkallakuri/CLIPort-with-Safety-Constraints)**
+
+### Makeblock Projects
+1. **[Simple Swarm Bots](https://github.com/dheerajkallakuri/Simple-Swarm-Bots)**
+2. **[Balancing Bot](https://github.com/dheerajkallakuri/Balancing-Bot)**
+
+### Certification Projects
+1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
+2. **[Google: Image Captioning with Visual Attention](https://github.com/dheerajkallakuri/ImageCaptioning)**
+
+
+## 💻 Tech Stack
 
 ### ProgrammingLanguages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
