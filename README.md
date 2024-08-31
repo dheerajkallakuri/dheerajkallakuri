@@ -32,6 +32,22 @@
 1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
 2. **[Google: Image Captioning with Visual Attention](https://github.com/dheerajkallakuri/ImageCaptioning)**
 
+## 📊 Github Stats
+
+<p align="left">
+  
+  <a href="https://git.io/streak-stats">
+    <img src=https://streak-stats.demolab.com/?user=dheerajkallakuri&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
+  
+  </br>
+  </br>
+
+  <a href="https://github.com/dheerajkallakuri/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dheerajkallakuri&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+  </a>
+    
+</p>
 
 ## 💻 Tech Stack
 
