@@ -8,6 +8,10 @@
 
 ## 💡 Projects Classification:
 
+### GenAI Projects
+1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
+2. **[Google: Image Captioning with Visual Attention](https://github.com/dheerajkallakuri/ImageCaptioning)**
+
 ### Embedded Machine Learning Projects
 1. **[Object Classification with CNNs](https://github.com/dheerajkallakuri/Object-Classification-with-CNNs)**
 2. **[Posture Prediction with NNs](https://github.com/dheerajkallakuri/Posture-Prediction-with-Neural-Networks)**
@@ -27,10 +31,6 @@
 ### Makeblock Projects
 1. **[Simple Swarm Bots](https://github.com/dheerajkallakuri/Simple-Swarm-Bots)**
 2. **[Balancing Bot](https://github.com/dheerajkallakuri/Balancing-Bot)**
-
-### Certification Projects
-1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
-2. **[Google: Image Captioning with Visual Attention](https://github.com/dheerajkallakuri/ImageCaptioning)**
 
 ## 📊 Github Stats
 
