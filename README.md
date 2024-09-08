@@ -36,6 +36,11 @@
 1. **[Simple Swarm Bots](https://github.com/dheerajkallakuri/Simple-Swarm-Bots)**
 2. **[Balancing Bot](https://github.com/dheerajkallakuri/Balancing-Bot)**
 
+### Python Desktop Apps
+1. **[Joke App](https://github.com/dheerajkallakuri/JokeApp)**
+2. **[Images->Pdf Conversion App](https://github.com/dheerajkallakuri/ImgstoPdf)**
+3. **[QR Code Generation App](https://github.com/dheerajkallakuri/QRCodeGen)**
+
 ## 📊 Github Stats
 
 <p align="left">
