@@ -9,8 +9,8 @@
 ## 💡 Projects Classification:
 
 ### GenAI Projects
-1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
-2. **[Google: Image Captioning with Visual Attention](https://github.com/dheerajkallakuri/ImageCaptioning)**
+1. **[scratchGPT](https://github.com/dheerajkallakuri/scratchGPT)**
+2. **[mini-chat](https://github.com/dheerajkallakuri/mini-chat)**
 
 ### GenAI Certification Projects
 1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
