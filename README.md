@@ -9,8 +9,8 @@
 ## 💡 Projects Classification:
 
 ### GenAI Projects
-1. **[scratchGPT](https://github.com/dheerajkallakuri/scratchGPT)**
-2. **[mini-chat](https://github.com/dheerajkallakuri/mini-chat)**
+1. **[Scratch GPT](https://github.com/dheerajkallakuri/scratchGPT)**
+2. **[MiniChatbot](https://github.com/dheerajkallakuri/mini-chat)**
 
 ### GenAI Certification Projects
 1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
