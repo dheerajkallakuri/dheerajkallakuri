@@ -11,6 +11,10 @@
 ### GenAI Projects
 1. **[Scratch GPT](https://github.com/dheerajkallakuri/scratchGPT)**
 2. **[MiniChatbot](https://github.com/dheerajkallakuri/mini-chat)**
+3. **[Youtuber Analysis using Quantised Llama](https://github.com/dheerajkallakuri/youtuberAnalysis)**
+4. **[IMDb Review Classification using BERT Encoder](https://github.com/dheerajkallakuri/ImdbReviewClassification)**
+5. **[Pdf Chatbot using LLM-RAG Architecture](https://github.com/dheerajkallakuri/pdfChatbot)**
+6. **[Image Summarize using ResNet50 and LSTM/GPT Architecture](https://github.com/dheerajkallakuri/ImageSummarize)**
 
 ### GenAI Certification Projects
 1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
@@ -40,6 +44,7 @@
 1. **[Joke App](https://github.com/dheerajkallakuri/JokeApp)**
 2. **[Images->Pdf Conversion App](https://github.com/dheerajkallakuri/ImgstoPdf)**
 3. **[QR Code Generation App](https://github.com/dheerajkallakuri/QRCodeGen)**
+4. **[All-in-One Filters App](https://github.com/dheerajkallakuri/AllinOneFilters)**
 
 ## 📊 Github Stats
 
