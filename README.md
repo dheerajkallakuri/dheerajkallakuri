@@ -9,13 +9,13 @@
 ## 💡 Projects Classification:
 
 ### GenAI Projects
-1. **[Scratch GPT](https://github.com/dheerajkallakuri/scratchGPT)**
-2. **[MiniChatbot](https://github.com/dheerajkallakuri/mini-chat)**
-3. **[Youtuber Analysis using Quantised Llama](https://github.com/dheerajkallakuri/youtuberAnalysis)**
-4. **[IMDb Review Classification using BERT Encoder](https://github.com/dheerajkallakuri/ImdbReviewClassification)**
-5. **[Pdf Chatbot using LLM-RAG Architecture](https://github.com/dheerajkallakuri/pdfChatbot)**
-6. **[Image Summarize using ResNet50 and LSTM/GPT Architecture](https://github.com/dheerajkallakuri/ImageSummarize)**
-7. **[Sparky: The Hardware Guru](https://github.com/dheerajkallakuri/Sparky-HardwareGuru)**
+1. **[Youtuber Analysis using Quantised Llama](https://github.com/dheerajkallakuri/youtuberAnalysis)**
+2. **[IMDb Review Classification using BERT Encoder](https://github.com/dheerajkallakuri/ImdbReviewClassification)**
+3. **[Pdf Chatbot using LLM-RAG Architecture](https://github.com/dheerajkallakuri/pdfChatbot)**
+4. **[Image Summarize using ResNet50 and LSTM/GPT Architecture](https://github.com/dheerajkallakuri/ImageSummarize)**
+5. **[Sparky: The Hardware Guru](https://github.com/dheerajkallakuri/Sparky-HardwareGuru)**
+6. **[Scratch GPT](https://github.com/dheerajkallakuri/scratchGPT)**
+7. **[MiniChatbot](https://github.com/dheerajkallakuri/mini-chat)**
 
 ### GenAI Certification Projects
 1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
