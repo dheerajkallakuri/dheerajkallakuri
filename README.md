@@ -9,14 +9,15 @@
 ## 💡 Projects Classification:
 
 ### GenAI Projects
-1. **[Sparky: The Hardware Guru](https://github.com/dheerajkallakuri/Sparky-HardwareGuru)**
-2. **[Alpaca 3: A Custom GPT for Liminal Works](https://github.com/dheerajkallakuri/LiminalWorksGPT)**
-3. **[Youtuber Analysis using Quantised Llama](https://github.com/dheerajkallakuri/youtuberAnalysis)**
-4. **[IMDb Review Classification using BERT Encoder](https://github.com/dheerajkallakuri/ImdbReviewClassification)**
-5. **[Pdf Chatbot using LLM-RAG Architecture](https://github.com/dheerajkallakuri/pdfChatbot)**
-6. **[Image Summarize using ResNet50 and LSTM/GPT Architecture](https://github.com/dheerajkallakuri/ImageSummarize)**
-7. **[Scratch GPT](https://github.com/dheerajkallakuri/scratchGPT)**
-8. **[MiniChatbot](https://github.com/dheerajkallakuri/mini-chat)**
+1. **[GenderBiasGPT for Regional Languages(Vietnamese and Hindi):](https://github.com/dheerajkallakuri/GenderBiasGPT)** 1st Place Winner at Hack SoDA 2024, ASU
+2. **[Sparky: The Hardware Guru:](https://github.com/dheerajkallakuri/Sparky-HardwareGuru)** Developed during Sunhacks 2024, ASU
+3. **[Alpaca 3: A Custom GPT for Liminal Works:](https://github.com/dheerajkallakuri/LiminalWorksGPT)**  Developed during Opportunity Hack(O-Hack 2024), ASU
+4. **[Youtuber Analysis using Quantised Llama](https://github.com/dheerajkallakuri/youtuberAnalysis)**
+5. **[IMDb Review Classification using BERT Encoder](https://github.com/dheerajkallakuri/ImdbReviewClassification)**
+6. **[Pdf Chatbot using LLM-RAG Architecture](https://github.com/dheerajkallakuri/pdfChatbot)**
+7. **[Image Summarize using ResNet50 and LSTM/GPT Architecture](https://github.com/dheerajkallakuri/ImageSummarize)**
+8. **[Scratch GPT](https://github.com/dheerajkallakuri/scratchGPT)**
+9. **[MiniChatbot](https://github.com/dheerajkallakuri/mini-chat)**
 
 ### GenAI Certification Projects
 1. **[Nvidia: Building a Brain in 10 Minutes](https://github.com/dheerajkallakuri/BuildingABrain)**
