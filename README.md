@@ -49,6 +49,7 @@
 3. **[QR Code Generation App](https://github.com/dheerajkallakuri/QRCodeGen)**
 4. **[All-in-One Filters App](https://github.com/dheerajkallakuri/AllinOneFilters)**
 5. **[Colorizer App - B&W to Color Image Conversion](https://colorizer.streamlit.app/)**
+6. **[Name-o-Color](https://nametocolor.streamlit.app/)**
 
 ## 📊 Github Stats
 
